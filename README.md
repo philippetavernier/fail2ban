@@ -21,7 +21,7 @@ phil@phil-HP-ProBook-4740s:~$ sudo telegraf -config telegraf2.conf
 2021-10-05T14:52:42Z I! [agent] Config: Interval:10s, Quiet:false, Hostname:"phil-HP-ProBook-4740s", Flush Interval:10s
 
 ```
-
+telegraf.conf
 ```
 [[outputs.influxdb_v2]]
   ## The URLs of the InfluxDB cluster nodes.
