@@ -47,5 +47,7 @@ telegraf.conf
 
 # The tail, rsyslog omfile way
 
-https://github.com/influxdata/telegraf/tree/release-1.17/plugins/inputs/tail
-https://www.rsyslog.com/doc/v8-stable/configuration/modules/omfile.html
+## links
+https://github.com/influxdata/telegraf/tree/release-1.17/plugins/inputs/tail  --
+https://www.rsyslog.com/doc/v8-stable/configuration/modules/omfile.html  --
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-viewing_and_managing_log_files  --
