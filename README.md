@@ -45,6 +45,7 @@ telegraf.conf
 ```
 
 
-# The tail way
+# The tail, rsyslog omfile way
 
 https://github.com/influxdata/telegraf/tree/release-1.17/plugins/inputs/tail
+https://www.rsyslog.com/doc/v8-stable/configuration/modules/omfile.html
