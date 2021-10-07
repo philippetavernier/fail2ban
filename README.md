@@ -45,6 +45,6 @@ telegraf.conf
 ```
 
 
-#The tail way
+# The tail way
 
 https://github.com/influxdata/telegraf/tree/release-1.17/plugins/inputs/tail
