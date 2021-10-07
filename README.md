@@ -44,3 +44,7 @@ telegraf.conf
 [[inputs.fail2ban]]
 ```
 
+
+#The tail way
+
+https://github.com/influxdata/telegraf/tree/release-1.17/plugins/inputs/tail
